@@ -1,0 +1,29 @@
+.mainF{
+    border:1px dashed black;
+    text-align: center;
+    background-color: white;
+    width: 20cm;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   
+}
+body{
+    background-color: rgb(8, 212, 212);
+    background-image: url(img.jpg);
+    background-size: inherit;
+
+}
+h1{
+    text-align: center;
+}
+legend{
+    font-size: large;
+    font-weight: bold;
+}
+.selectt{
+   
+    border: 1px dotted black;
+}
+   
